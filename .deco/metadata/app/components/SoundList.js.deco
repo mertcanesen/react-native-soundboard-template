@@ -1,0 +1,50 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 196,
+					"ch": 21
+				},
+				"to": {
+					"line": 196,
+					"ch": 22
+				}
+			},
+			"type": "number",
+			"name": "NumColumns"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 211,
+					"ch": 20
+				},
+				"to": {
+					"line": 211,
+					"ch": 28
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "JustifyContent",
+			"type": "string",
+			"name": "JustifyContent"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 212,
+					"ch": 16
+				},
+				"to": {
+					"line": 212,
+					"ch": 24
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "AlignItems",
+			"type": "string",
+			"name": "AlignItems"
+		}
+	]
+}

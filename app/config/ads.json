@@ -1,0 +1,7 @@
+{
+  "isAdmobEnable": true,
+  "AdMobWelcomeBanner": "ca-app-pub-3940256099942544/6300978111",
+  "AdMobSoundListBanner": "ca-app-pub-3940256099942544/6300978111",
+  "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
+  "PlayCountForInterstitial": 10
+}
